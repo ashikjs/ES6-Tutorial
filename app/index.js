@@ -1,0 +1,1 @@
+console.log('Hello world I love my Allah... (Webpack)---Please Allah help me')
