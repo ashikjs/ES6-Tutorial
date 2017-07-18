@@ -3,6 +3,7 @@ module.exports = {
     output: {
         path: __dirname + '/build',
         // if the above line does not work, try `path: __dirname + '/build'`
+         // path:'/build',
         filename: 'bundle.js'
     },
     module: {
